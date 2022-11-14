@@ -1,5 +1,9 @@
 
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Adão Negro Qualidade de Cinema" tvg-logo="http://meumd.com:80/images/9z256FFPDsL7kSVJ9oyLELaN1ph_big.jpg" group-title="FILMES: LANÇAMENTOS",Adão Negro Qualidade de Cinema
+https://meumd.com:443/movie/987654321/987654321/214450.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pantera Negra: Wakanda para Sempre Qualidade de Cinema" tvg-logo="http://meumd.com:80/images/6tb0qiqLN9szHPA4i0kY38oaWew_big.jpg" group-title="FILMES: LANÇAMENTOS",Pantera Negra: Wakanda para Sempre Qualidade de Cinema
+https://meumd.com:443/movie/987654321/987654321/214449.mp4
 #EXTINF:-1 tvg-id="" tvg-name=" Star Wars: Episódio V – O Império Contra-Ataca (1980)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iXXSUFpfBKZimPyugKQShUO5NMS.jpg" group-title="Filmes | Fantasia", Star Wars: Episódio V – O Império Contra-Ataca (1980)
 http://51.89.98.62:8080/movie/max487/max487/3943.mp4
 #EXTINF:-1 tvg-id="" tvg-name="+ Velozes + Furiosos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tMUnCAgfARTdAu8ylPw4Wjh3e5N.jpg" group-title="Filmes | Ação",+ Velozes + Furiosos
